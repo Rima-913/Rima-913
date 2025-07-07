@@ -1,4 +1,4 @@
-- 📩 [Let's connect] (mailto:rimarati999@gmail.com)
+- 📩 Let's connect rimarati999@gmail.com
 - 🌱 I’m currently learning everything.
 - ⚡ Fun fact: I paint sometimes.
 
