@@ -1,9 +1,14 @@
 ### About me
 Hi there 👋,
+
 I am Rima.
+
 🎓 I am an MSc graduate in Mathematics and Computing from IIT,Hyderabad.
+
 🌱 Passionate ML enthusiast and have interest in Data Science.
+
 💻 Teaching machines to understand human language — currently diving into NLP 
+
 ⚡Fun fact: I paint sometimes.
 
 ### 🌐 Socials:
